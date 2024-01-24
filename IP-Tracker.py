@@ -1,11 +1,3 @@
-#ip tracker v0.5 provider by Anonymous Pro
-#Author Mahfuzur Rahman
-#python script
-#Follw Me
-#visit: www.anonymousproo.com
-#github: https://github.com/anonymousproo
-#youtube: https://www.youtube.com/anonymouspro1
-#Facebook: https://m.facebook.com/anonymousproo1
 import os
 import urllib2
 import json
@@ -29,11 +21,11 @@ print ('''
 ''')
 print"\033[1;33m==================================================================================================\033[1;33m"
 print   
-print	"\033[1;32mAuthor			:Mahfuzur Rahman\033[1;32m"
-print	"\033[1;32Github			:https://github.com/anonymousproo\033[1;32m"
-print	"\033[1;32mYouTube			:https://www.youtube.com/anonymouspro1			{IP Tracker v3.0}\033[1;32m"
-print	"\033[1;32mfacebook		:https://m.facebook.com/anonymousproo1\033[1;32m"
-print	"\033[1;32mcoded by		:ANONYMOUS PRO YTB\033[1;32m"
+print	"\033[1;32mAuthor			:Dhananajaya Madhusanka\033[1;32m"
+print	"\033[1;32Github			:https://github.com/TEAM-DLK\033[1;32m"
+print	"\033[1;32mYouTube			:https://www.youtube.com/DJDOOZY			{IP Tracker v3.0}\033[1;32m"
+print	"\033[1;32mfacebook		:https://m.facebook.com/DOOZYYEZ\033[1;32m"
+print	"\033[1;32mcoded by		:PRO DOOZY\033[1;32m"
 print
 print"\033[1;33m==================================================================================================\033[1;33m"
 print ("\n\033[1;33mYour IP: \033[1;33m" + result1['query'])
